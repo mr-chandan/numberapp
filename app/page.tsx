@@ -239,20 +239,6 @@ export default function Home() {
           </div>
         </div>
       </main>
-
-      {/* Footer */}
-      <footer className="mt-12 pb-8">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="bg-white/50 backdrop-blur-sm rounded-xl p-6 text-center border border-indigo-100">
-            <p className="text-sm text-gray-600">
-              Built with <span className="text-red-500">♥</span> using Next.js, React, TypeScript & MongoDB
-            </p>
-            <p className="text-xs text-gray-500 mt-2">
-              © 2025 Number Discussions • Test Assignment for Ellty
-            </p>
-          </div>
-        </div>
-      </footer>
     </div>
   );
 }
